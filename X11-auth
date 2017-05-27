@@ -1,0 +1,1 @@
+sudo xauth add $(xauth list ${DISPLAY#localhost})

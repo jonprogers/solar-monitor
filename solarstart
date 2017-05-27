@@ -1,0 +1,4 @@
+#! /bin/sh
+
+./X11-auth
+sudo ./MQTT-solar.py &
